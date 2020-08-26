@@ -76,7 +76,6 @@ button:hover {
   body {
     display: flex;
     flex-direction: column;
-    background-color: hotpink;
   }
 
   hr {
